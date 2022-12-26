@@ -1,0 +1,85 @@
+
+.nav_flex{
+    background-color:#000000 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.nav_menu {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: #3bd2f8;
+}
+.nav_logo{
+    color: #3bd2f8;
+    font-family: 'Kiwi Maru';
+font-size:xx-large;
+}
+.logo {
+    margin: auto;
+}
+.menu {
+    padding-inline: 15px;
+    margin: auto;
+}
+
+.modal_dialog{
+    display: flex;
+    margin-top: 0;
+    background-color: black;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    align-items: baseline;
+}
+.modal_title{
+    font-size: 30px;
+color: #3bd2f8;
+}
+.modal_body{
+    display: flex;
+font-size: 25px;
+color: #C5C5C5;
+flex-wrap: wrap;
+flex-direction: column;
+    align-content: space-between;
+}
+
+
+
+.no {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.right_vop{
+    display: flex;
+    color: #3bd2f8;
+    font-size: 25px;
+}
+.button {
+    display: flex;
+    justify-content: space-evenly;
+}
+.d-flexalign-items-start{
+    display: flex;
+    background: black;
+    padding: 30px;
+}
+.tab-content{
+    color: #3bd2f8;
+}
+.a4{
+    color: #3bd2f8;
+}
+.a3{
+    color: #3bd2f8;
+}
+.a2{
+    color: #3bd2f8;
+}
+.a1{
+    color: #3bd2f8;
+}
