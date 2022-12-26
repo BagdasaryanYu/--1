@@ -1,0 +1,61 @@
+body{
+    font-family: "Arial";
+    background:#0a0907;
+}
+.box{
+    margin: 40px auto auto auto;
+    border-radius: 10px;
+    width: 600px;
+    height: 700px;
+    background: #ffd900;
+}
+.h1{
+  font-weight: bold ;
+    padding-top: 40px;
+    font-size: 30px;
+    color: rgb(185, 20, 158);
+    text-align: center;
+}
+.h3{
+  font-weight: normal;
+    font-size: 16px;
+    color: rgb(185, 20, 158);
+    text-align: center;
+}
+.type{
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-left: 30%;
+    width: 40%;
+    height: 35px;
+}
+.button {
+    margin: 10px 10px 10px 140px;
+    font-size: 16px;
+    color: rgb(185, 20, 158);
+    height: 30px;
+    width: 30px;
+}
+
+.file {
+    width: 100%;
+    margin: 20px 10px 10px 175px;
+    color: rgb(185, 20, 158);
+    font-size: 15px;
+
+}
+.date {
+
+    width: 150px;
+    margin: 20px 10px 10px 220px;
+    color: #6495ED;
+    font-size: 15px;
+    height: 30px;
+
+}
+.val {
+  font-size: 17px;
+  color: rgb(185, 20, 158);
+  padding-left: 250px;
+}
